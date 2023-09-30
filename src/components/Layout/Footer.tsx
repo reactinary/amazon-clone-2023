@@ -7,9 +7,9 @@ const Footer = () => {
     <div className="w-full h-20 bg-amazon_light text-gray-300 flex items-center justify-center gap-4">
       <Image className="w-24" src={logo} alt="logo" />
       <p className="text-sm -mt-4">
-        All rights reserved{" "}
+        Made with ❤️ by {" "}
         <a href="https://reactinary.com" target="_blank"  className="hover:text-white hover:underline decoration-[1px] cursor-pointer duration-300">
-          @reactinary.com
+          Maxime Montfort ⚛️
         </a>
       </p>
     </div>

@@ -32,6 +32,7 @@ const BottomHeader = () => {
           Sign Out
         </button>
       )}
+      <p className={`${menuItemBottomHeader} ml-8`}> Made with ❤️ by Maxime Montfort ⚛️ </p>
     </div>
   );
 };
